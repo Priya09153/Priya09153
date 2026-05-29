@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">🚀 Coding Enthusiast |  | Competitive Programmer<br>Turning Data fundamentals into scalable real-world systems</p>
+<p align="center">🚀 Data Analytics Enthusiast |  | Competitive Programmer<br>Turning Data fundamentals into scalable real-world systems</p>
 
 ###
 
